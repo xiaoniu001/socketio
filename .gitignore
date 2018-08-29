@@ -14,9 +14,12 @@ dist/
 downloads/
 eggs/
 .eggs/
+<<<<<<< HEAD
 
 .idea/
 
+=======
+>>>>>>> 8700e9fec75e45db1e106f80556a622c7d90c10d
 lib/
 lib64/
 parts/
@@ -48,21 +51,31 @@ nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
+<<<<<<< HEAD
 
 .pytest_cache/
 
 
+=======
+.pytest_cache/
+
+>>>>>>> 8700e9fec75e45db1e106f80556a622c7d90c10d
 # Translations
 *.mo
 *.pot
 
 # Django stuff:
 *.log
+<<<<<<< HEAD
 
 .static_storage/
 .media/
 local_settings.py
 
+=======
+local_settings.py
+db.sqlite3
+>>>>>>> 8700e9fec75e45db1e106f80556a622c7d90c10d
 
 # Flask stuff:
 instance/
@@ -109,6 +122,10 @@ venv.bak/
 /site
 
 # mypy
+<<<<<<< HEAD
 
 .mypy_cache/
 
+=======
+.mypy_cache/
+>>>>>>> 8700e9fec75e45db1e106f80556a622c7d90c10d
